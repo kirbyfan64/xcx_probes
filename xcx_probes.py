@@ -35,6 +35,8 @@ URL = 'https://www.reddit.com/r/Xenoblade_Chronicles/comments/5448ll/probe_locat
 
 VALID_FORMATS = ['markdown']
 
+PROBE_INFO = ['Level', 'Type', 'Segment', 'Location', 'Info']
+
 last_elem = partial(reduce, lambda _, x: x)
 just_tags = partial(filter, lambda x: isinstance(x, Tag))
 
@@ -53,9 +55,12 @@ class Document:
 
         res.append('#Contents')
         res.append('- [Introduction](#intro)')
-        res.append('- [Probe list](#probes)')
+        res.append('- [Probe list](#probes-l)')
         for name in self.groups.keys():
-            res.append('  - [%s](#%s)' % (name, linkify_probe(name)))
+            res.append('  - [%s](#%s-l)' % (name, linkify_probe(name)))
+        res.append('- [Probe table](#probes-t)')
+        for name in self.groups.keys():
+            res.append('  - [%s](#%s-t)' % (name, linkify_probe(name)))
         res.append('- [Notes](#notes)')
         res.append('- [Version History](#history)')
         res.append('- [Acknowledgements](#ack)')
@@ -71,9 +76,9 @@ class Document:
         res.append('\n\n'.join(self.intro))
         res.append('')
 
-        res.append('#Probe list <a name="probes"></a>')
+        res.append('#Probe list <a name="probes-l"></a>')
         for name, probes in self.groups.items():
-            res.append('##%s <a name="%s"></a>' % (name, linkify_probe(name)))
+            res.append('##%s <a name="%s-l"></a>' % (name, linkify_probe(name)))
             for probe, items in probes.items():
                 res.append('###' + probe)
                 if len(items) == 1 and isinstance(items[0], str):
@@ -82,6 +87,23 @@ class Document:
                     for item in items:
                         res.append('- **%s**: %s' % item)
                 res.append('')
+
+        res.append('#Probe table <a name="probes-t"></a>')
+        for name, probes in self.groups.items():
+            res.append('##%s <a name="%s-t"></a>' % (name, linkify_probe(name)))
+            res.append('|Probe|%s|' % '|'.join(PROBE_INFO))
+            res.append('|---|'*(len(PROBE_INFO)+1))
+            for probe, items in probes.items():
+                cols = [probe]
+                if len(items) == 1 and isinstance(items[0], str):
+                    cols.extend(['None']*len(PROBE_INFO))
+                    cols.append(items[0])
+                else:
+                    items_d = dict(items)
+                    cols.extend([items_d[k] for k in PROBE_INFO[:-1]])
+                    cols.append('None')
+                res.append('|%s|' % '|'.join(cols))
+            res.append('')
 
         info = [
             ('Notes', 'notes'),
