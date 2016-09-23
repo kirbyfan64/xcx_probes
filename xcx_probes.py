@@ -91,8 +91,8 @@ class Document:
         res.append('#Probe table <a name="probes-t"></a>')
         for name, probes in self.groups.items():
             res.append('##%s <a name="%s-t"></a>' % (name, linkify_probe(name)))
-            res.append('|Probe|%s|' % '|'.join(PROBE_INFO))
-            res.append('|---|'*(len(PROBE_INFO)+1))
+            res.append('| Probe | %s |' % ' | '.join(PROBE_INFO))
+            res.append('| --- |'*(len(PROBE_INFO)+1))
             for probe, items in probes.items():
                 cols = [probe]
                 if len(items) == 1 and isinstance(items[0], str):
@@ -102,7 +102,7 @@ class Document:
                     items_d = dict(items)
                     cols.extend([items_d[k] for k in PROBE_INFO[:-1]])
                     cols.append('None')
-                res.append('|%s|' % '|'.join(cols))
+                res.append('| %s |' % ' | '.join(cols))
             res.append('')
 
         info = [
