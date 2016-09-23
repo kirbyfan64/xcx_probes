@@ -1109,292 +1109,292 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 
 #Probe table <a name="probes-t"></a>
 ##Mining 1 <a name="Mining_1-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained by completing <strong>Chapter 2</strong>|
-|Probe 2|None|None|None|None|None|Obtained by completing <strong>Chapter 2</strong>|
-|Probe 3|None|None|None|None|None|Obtained after starting the normal mission <strong>The Probe-fessional</strong> |
-|Probe 4|None|None|None|None|None|Obtained after starting the normal mission <strong>The Probe-fessional</strong>|
-|Probe 5|None|None|None|None|None|Obtained after starting the normal mission <strong>The Probe-fessional</strong>|
-|Probe 6|1|Vehicle wreckage|NE of FN 102|Near Shadow Beach BC|None|
-|Probe 7|1|White Whale debris|SE of FN 104 (completes)|n/a|None|
-|Probe 8|1|Skell wreckage|NW of FN 103 (completes)|n/a|None|
-|Probe 9|1|Vehicle wreckage|SE of FN 114 (completes)|Close to the crystals surrounding the city wall.|None|
-|Probe 10|2|Patrol chopper wreckage|FN 119|In front of Seaswept Base, near two level 1 Skell wreckages. You probably got this one in chapter 3 already. Also contains a Research 1 probe.|None|
-|Probe 11|1|Vehicle wreckage|NE of FN 111 (completes)|In the water.|None|
-|Probe 12|1|Skell wreckage|FN 222|East of the Old Dragontail Tree, in the water under a tree(?). Just head east from the fasttravel point and you should see the yellow square.|None|
-|Probe 13|1|Trailer wreckage|NW of FN 216 (completes)|On top of the waterfall|None|
-|Probe 14|1|Trailer wreckage|On the border of FN 205 and the segment NE of it|On an elevated level near a Simius.|None|
-|Probe 15|1|White Whale debris|N of FN 220|Near (slightly N of) the base of the Seabound Coil Tree. You should immediately see a yellow square upon warping to the landmark.|None|
-|Probe 16|1|White Whale debris|S of FN 216|On the lowest level, on a beach with level 9 Forfexes (Forfices?).|None|
-|Probe 17|2|Abandoned container|n/a|On a smaller island between Primordia and Sylvalum, close to Primordia. Also contains another Mining 1|None|
-|Probe 18|2|Abandoned container|n/a|On a smaller island between Primordia and Sylvalum, close to Primordia. Also contains another Mining 1|None|
-|Probe 19|2|White Whale debris|NW of FN 505 (completes)|On the rocky beach near level 9 Blattas.|None|
-|Probe 20|1|Skell wreckage|Warp to Emerian Battlegrounds and look in the pit to the SE. |It’s underneath the Ceto. The Ceto might be gone/replaced during the day or the night though.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained by completing <strong>Chapter 2</strong> |
+| Probe 2 | None | None | None | None | None | Obtained by completing <strong>Chapter 2</strong> |
+| Probe 3 | None | None | None | None | None | Obtained after starting the normal mission <strong>The Probe-fessional</strong>  |
+| Probe 4 | None | None | None | None | None | Obtained after starting the normal mission <strong>The Probe-fessional</strong> |
+| Probe 5 | None | None | None | None | None | Obtained after starting the normal mission <strong>The Probe-fessional</strong> |
+| Probe 6 | 1 | Vehicle wreckage | NE of FN 102 | Near Shadow Beach BC | None |
+| Probe 7 | 1 | White Whale debris | SE of FN 104 (completes) | n/a | None |
+| Probe 8 | 1 | Skell wreckage | NW of FN 103 (completes) | n/a | None |
+| Probe 9 | 1 | Vehicle wreckage | SE of FN 114 (completes) | Close to the crystals surrounding the city wall. | None |
+| Probe 10 | 2 | Patrol chopper wreckage | FN 119 | In front of Seaswept Base, near two level 1 Skell wreckages. You probably got this one in chapter 3 already. Also contains a Research 1 probe. | None |
+| Probe 11 | 1 | Vehicle wreckage | NE of FN 111 (completes) | In the water. | None |
+| Probe 12 | 1 | Skell wreckage | FN 222 | East of the Old Dragontail Tree, in the water under a tree(?). Just head east from the fasttravel point and you should see the yellow square. | None |
+| Probe 13 | 1 | Trailer wreckage | NW of FN 216 (completes) | On top of the waterfall | None |
+| Probe 14 | 1 | Trailer wreckage | On the border of FN 205 and the segment NE of it | On an elevated level near a Simius. | None |
+| Probe 15 | 1 | White Whale debris | N of FN 220 | Near (slightly N of) the base of the Seabound Coil Tree. You should immediately see a yellow square upon warping to the landmark. | None |
+| Probe 16 | 1 | White Whale debris | S of FN 216 | On the lowest level, on a beach with level 9 Forfexes (Forfices?). | None |
+| Probe 17 | 2 | Abandoned container | n/a | On a smaller island between Primordia and Sylvalum, close to Primordia. Also contains another Mining 1 | None |
+| Probe 18 | 2 | Abandoned container | n/a | On a smaller island between Primordia and Sylvalum, close to Primordia. Also contains another Mining 1 | None |
+| Probe 19 | 2 | White Whale debris | NW of FN 505 (completes) | On the rocky beach near level 9 Blattas. | None |
+| Probe 20 | 1 | Skell wreckage | Warp to Emerian Battlegrounds and look in the pit to the SE.  | It’s underneath the Ceto. The Ceto might be gone/replaced during the day or the night though. | None |
 
 ##Mining 2 <a name="Mining_2-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained after completing the normal mission <strong>The Probe-fessional</strong>|
-|Probe 2|3|Container|2nd segment N of the Integrated Production Plant|n/a|None|
-|Probe 3|2|Container|N of the Pizzeria, the 2nd segment SW of Barista Court|n/a|None|
-|Probe 4|3|Trailer|?|Parking lot 2 NE of the cathedral|None|
-|Probe 5|2|Container|?|A little to the N of the previous probe|None|
-|Probe 6|2|Trailer|1st segment S of Doug|n/a|None|
-|Probe 7|4|Container|1st segment S of Blade Tower|n/a|None|
-|Probe 8|2|White Whale debris|SE of FN 115 (completes)|On the beach.|None|
-|Probe 9|1|White Whale debris|NW of FN 112 (completes)|Behind a pillar|None|
-|Probe 10|1|Skell wreckage|N of FN 221 (completes)|Underneath the cliff in the area with Yama the Obliviator, in the poisoned water. |None|
-|Probe 11|2|Skell wreckage|SW of FN 204 (completes)|Inside the cave|None|
-|Probe 12|1|Trailer wreckage|S of FN 204|Halfway up the branch that connects the bottom level to the upper (waterfall) level there is a platform, on top of which is the trailer.|None|
-|Probe 13|1|Vehicle wreckage|SE of FN 222|On the NE corner of the segment, inside Whale’s Gullet, the cave with all the Simiusses (Simii?)|None|
-|Probe 14|1|Skell wreckage|N of FN 220|Near the SE edge of the segment, on the raised plateau E of the Canopied Nightwood BC|None|
-|Probe 15|2|Patrol chopper wreckage|N of FN 220 (completes)|Way up high in the trees. Requires flight pack. Strictly speaking it is possible to climb up there with just a skell, but it is quite tricky and not worth the effort.|None|
-|Probe 16|1|Skell wreckage|NE of FN 216|Warp to Skybound Coil Tree and you should see a yellow square. It is up in the tree.|None|
-|Probe 17|4|White Whale debris|N of FN 301 (completes)|Requires flight pack or elementary mountaingoating. |None|
-|Probe 18|2|Vehicle wreckage|SE of FN 302 (completes)|On the elevated passageway with all the Mortifoles.|None|
-|Probe 19|2|White Whale debris|SW of FN 309 (completes)|On that large rock with Prones and Suids|None|
-|Probe 20|2|Skell wreckage|NE of FN 306 (completes)|Guarded by two Mephites|None|
-|Probe 21|2|White Whale debris|NW of FN 313 (completes)|It is just lying there in the desrt, hard to miss|None|
-|Probe 22|2|Skell wreckage|N of FN 303 (completes)|On a cliff near one of the Zigs(?) you had to destroy in chapter 5|None|
-|Probe 23|1|Vehicle wreckage|FN 302|In the NE corner of the segment in a corner with a Wise Aprica and some Wasteland Evellos.|None|
-|Probe 24|2|Trailer wreckage|Primordia waters (between Primordia and Sylvalum)|When you go from Primordia to Sylvalum from FN 113, after you pass the big island, ride/walk over the patches of sand that lead to Sylvalum. You should see a yellow square in the NE corner of the minimap. There are also 2 Prones and a Puge on the island with the trailer.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained after completing the normal mission <strong>The Probe-fessional</strong> |
+| Probe 2 | 3 | Container | 2nd segment N of the Integrated Production Plant | n/a | None |
+| Probe 3 | 2 | Container | N of the Pizzeria, the 2nd segment SW of Barista Court | n/a | None |
+| Probe 4 | 3 | Trailer | ? | Parking lot 2 NE of the cathedral | None |
+| Probe 5 | 2 | Container | ? | A little to the N of the previous probe | None |
+| Probe 6 | 2 | Trailer | 1st segment S of Doug | n/a | None |
+| Probe 7 | 4 | Container | 1st segment S of Blade Tower | n/a | None |
+| Probe 8 | 2 | White Whale debris | SE of FN 115 (completes) | On the beach. | None |
+| Probe 9 | 1 | White Whale debris | NW of FN 112 (completes) | Behind a pillar | None |
+| Probe 10 | 1 | Skell wreckage | N of FN 221 (completes) | Underneath the cliff in the area with Yama the Obliviator, in the poisoned water.  | None |
+| Probe 11 | 2 | Skell wreckage | SW of FN 204 (completes) | Inside the cave | None |
+| Probe 12 | 1 | Trailer wreckage | S of FN 204 | Halfway up the branch that connects the bottom level to the upper (waterfall) level there is a platform, on top of which is the trailer. | None |
+| Probe 13 | 1 | Vehicle wreckage | SE of FN 222 | On the NE corner of the segment, inside Whale’s Gullet, the cave with all the Simiusses (Simii?) | None |
+| Probe 14 | 1 | Skell wreckage | N of FN 220 | Near the SE edge of the segment, on the raised plateau E of the Canopied Nightwood BC | None |
+| Probe 15 | 2 | Patrol chopper wreckage | N of FN 220 (completes) | Way up high in the trees. Requires flight pack. Strictly speaking it is possible to climb up there with just a skell, but it is quite tricky and not worth the effort. | None |
+| Probe 16 | 1 | Skell wreckage | NE of FN 216 | Warp to Skybound Coil Tree and you should see a yellow square. It is up in the tree. | None |
+| Probe 17 | 4 | White Whale debris | N of FN 301 (completes) | Requires flight pack or elementary mountaingoating.  | None |
+| Probe 18 | 2 | Vehicle wreckage | SE of FN 302 (completes) | On the elevated passageway with all the Mortifoles. | None |
+| Probe 19 | 2 | White Whale debris | SW of FN 309 (completes) | On that large rock with Prones and Suids | None |
+| Probe 20 | 2 | Skell wreckage | NE of FN 306 (completes) | Guarded by two Mephites | None |
+| Probe 21 | 2 | White Whale debris | NW of FN 313 (completes) | It is just lying there in the desrt, hard to miss | None |
+| Probe 22 | 2 | Skell wreckage | N of FN 303 (completes) | On a cliff near one of the Zigs(?) you had to destroy in chapter 5 | None |
+| Probe 23 | 1 | Vehicle wreckage | FN 302 | In the NE corner of the segment in a corner with a Wise Aprica and some Wasteland Evellos. | None |
+| Probe 24 | 2 | Trailer wreckage | Primordia waters (between Primordia and Sylvalum) | When you go from Primordia to Sylvalum from FN 113, after you pass the big island, ride/walk over the patches of sand that lead to Sylvalum. You should see a yellow square in the NE corner of the minimap. There are also 2 Prones and a Puge on the island with the trailer. | None |
 
 ##Mining 3 <a name="Mining_3-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|1|Vehicle wreckage|N of FN 220|On a western cliff overlooking the waters, guarded by a Simius.|None|
-|Probe 2|1|Abandoned container|FN 302|Inside Ant’s Nest, inside one of the SE rooms (remember that you cannot see yellow squares on the minimap when you’re being aggro’d, so I suggest killing the Adseculas that aggro you while checking this cave).|None|
-|Probe 3|1|Trailer wreckage|FN 306|South of the probe site, on the cliffs, near some Mephites and a Lepyx. Hard to miss.|None|
-|Probe 4|1|Trailer wreckage|SW of FN 308|On the beach in plain sight, hard to miss.|None|
-|Probe 5|2|Abandoned container|SW of FN 403|In Seabird’s Beak BC, hard to miss.|None|
-|Probe 6|1|White Whale debris|SW of FN 501 (completes)|On the volcano. Also contains a Mining 4 probe.|None|
-|Probe 7|?|?|?|I have not yet located this probe, though I know it must be available before completing chapter 9, because another save file of mine had seven Mining 3 probes before chapter 9. Will update ASAP.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | 1 | Vehicle wreckage | N of FN 220 | On a western cliff overlooking the waters, guarded by a Simius. | None |
+| Probe 2 | 1 | Abandoned container | FN 302 | Inside Ant’s Nest, inside one of the SE rooms (remember that you cannot see yellow squares on the minimap when you’re being aggro’d, so I suggest killing the Adseculas that aggro you while checking this cave). | None |
+| Probe 3 | 1 | Trailer wreckage | FN 306 | South of the probe site, on the cliffs, near some Mephites and a Lepyx. Hard to miss. | None |
+| Probe 4 | 1 | Trailer wreckage | SW of FN 308 | On the beach in plain sight, hard to miss. | None |
+| Probe 5 | 2 | Abandoned container | SW of FN 403 | In Seabird’s Beak BC, hard to miss. | None |
+| Probe 6 | 1 | White Whale debris | SW of FN 501 (completes) | On the volcano. Also contains a Mining 4 probe. | None |
+| Probe 7 | ? | ? | ? | I have not yet located this probe, though I know it must be available before completing chapter 9, because another save file of mine had seven Mining 3 probes before chapter 9. Will update ASAP. | None |
 
 ##Mining 4 <a name="Mining_4-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|2|Skell wreckage|NE of FN 106 (completes)|n/a|None|
-|Probe 2|1|White Whale debris|N of FN 117 (completes)|On top of Tallpach Peak|None|
-|Probe 3|3|White Whale debris|N of FN 112 (completes)|A tad S of the beach, on the lowest level.|None|
-|Probe 4|1|Vehicle wreckage|FN 218|On the SW corner of the hexagon, right next to the water and some Forfexes (Forfices?)|None|
-|Probe 5|1|Skell wreckage|FN 204|A little bit N of the probe site, the yellow square should be visible upon warping to FN 204|None|
-|Probe 6|2|Trailer wreckage|NW of FN 314 (completes)|A  little bit S of the probe site, hard to miss.|None|
-|Probe 7|3|White Whale debris|S of FN 321 (completes)|On the large rock in Sea Whisper Valley, the one with a ton of collectibles. Might require a skell.|None|
-|Probe 8|1|White Whale debris|FN 313|In Azure Lagoon, against the eastern wall.|None|
-|Probe 9|1|Vehicle wreckage|NW of FN 313, SW of FN 313|On the border of those two segments, underneath the Leaning Ring (around its base).|None|
-|Probe 10|4|Skell wreckage|SE of FN 319 (completes)|The only treasure on the island. Probably requires a skell.|None|
-|Probe 11|2|Vehicle wreckage|S of FN 405|Between an Aeviter and a wall.|None|
-|Probe 12|3|Patrol chopper wreckage|SW of FN 411 (completes)|Inside the structure that looks a bit like a ...|None|
-|Probe 13|3|Skell wreckage|NE of FN 409 (completes)|On the NE edge of the hexagon, against a wall.|None|
-|Probe 14|3|Skell wreckage|NE of FN 412 (completes)|It is inside what appears to be a hollow tree trunk half-buried in the sand. There’s a Caro digging in front of the treasure.|None|
-|Probe 15|1|White Whale debris|SW of FN 501 (completes)|On the volcano. Also contains a Mining 3 probe.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | 2 | Skell wreckage | NE of FN 106 (completes) | n/a | None |
+| Probe 2 | 1 | White Whale debris | N of FN 117 (completes) | On top of Tallpach Peak | None |
+| Probe 3 | 3 | White Whale debris | N of FN 112 (completes) | A tad S of the beach, on the lowest level. | None |
+| Probe 4 | 1 | Vehicle wreckage | FN 218 | On the SW corner of the hexagon, right next to the water and some Forfexes (Forfices?) | None |
+| Probe 5 | 1 | Skell wreckage | FN 204 | A little bit N of the probe site, the yellow square should be visible upon warping to FN 204 | None |
+| Probe 6 | 2 | Trailer wreckage | NW of FN 314 (completes) | A  little bit S of the probe site, hard to miss. | None |
+| Probe 7 | 3 | White Whale debris | S of FN 321 (completes) | On the large rock in Sea Whisper Valley, the one with a ton of collectibles. Might require a skell. | None |
+| Probe 8 | 1 | White Whale debris | FN 313 | In Azure Lagoon, against the eastern wall. | None |
+| Probe 9 | 1 | Vehicle wreckage | NW of FN 313, SW of FN 313 | On the border of those two segments, underneath the Leaning Ring (around its base). | None |
+| Probe 10 | 4 | Skell wreckage | SE of FN 319 (completes) | The only treasure on the island. Probably requires a skell. | None |
+| Probe 11 | 2 | Vehicle wreckage | S of FN 405 | Between an Aeviter and a wall. | None |
+| Probe 12 | 3 | Patrol chopper wreckage | SW of FN 411 (completes) | Inside the structure that looks a bit like a ... | None |
+| Probe 13 | 3 | Skell wreckage | NE of FN 409 (completes) | On the NE edge of the hexagon, against a wall. | None |
+| Probe 14 | 3 | Skell wreckage | NE of FN 412 (completes) | It is inside what appears to be a hollow tree trunk half-buried in the sand. There’s a Caro digging in front of the treasure. | None |
+| Probe 15 | 1 | White Whale debris | SW of FN 501 (completes) | On the volcano. Also contains a Mining 3 probe. | None |
 
 ##Mining 5 <a name="Mining_5-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong>|
-|Probe 2|1|Skell wreckage|NW of FN 211|On a big branch next to a waterfall in the passageway on the lower level, on the western side of the passageway.|None|
-|Probe 3|1|Skell wreckage|FN 208|Bloodpond Basin, at the bottom of the western mountain range at the Ganglion stronghold.|None|
-|Probe 4|2|Skell wreckage|FN 215|On the NE border of the hexagon, in Weeping Whitewood. Check the western wall.|None|
-|Probe 5|1|Skell wreckage|N of FN 306|About halfway in between the probe site FN 306 and the river.|None|
-|Probe 6|1|Vehicle wreckage|S of FN 316|A little to the S of Ferdinand the Fortuitous.|None|
-|Probe 7|1|Trailer wreckage|FN 312|Warp to FN 312 and head W. The yellow square should be visible upon warping.|None|
-|Probe 8|2|Skell wreckage|NE of FN 405|On the southern border of the segment, near two Aeviters.|None|
-|Probe 9|1|Patrol chopper wreckage|n/a|Warp to Emerian Battlegrounds and look in the pit N/NE. It is next to the flowers.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong> |
+| Probe 2 | 1 | Skell wreckage | NW of FN 211 | On a big branch next to a waterfall in the passageway on the lower level, on the western side of the passageway. | None |
+| Probe 3 | 1 | Skell wreckage | FN 208 | Bloodpond Basin, at the bottom of the western mountain range at the Ganglion stronghold. | None |
+| Probe 4 | 2 | Skell wreckage | FN 215 | On the NE border of the hexagon, in Weeping Whitewood. Check the western wall. | None |
+| Probe 5 | 1 | Skell wreckage | N of FN 306 | About halfway in between the probe site FN 306 and the river. | None |
+| Probe 6 | 1 | Vehicle wreckage | S of FN 316 | A little to the S of Ferdinand the Fortuitous. | None |
+| Probe 7 | 1 | Trailer wreckage | FN 312 | Warp to FN 312 and head W. The yellow square should be visible upon warping. | None |
+| Probe 8 | 2 | Skell wreckage | NE of FN 405 | On the southern border of the segment, near two Aeviters. | None |
+| Probe 9 | 1 | Patrol chopper wreckage | n/a | Warp to Emerian Battlegrounds and look in the pit N/NE. It is next to the flowers. | None |
 
 ##Mining 6 <a name="Mining_6-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|4|White Whale debris|NW of FN 118 (completes)|On the beach.|None|
-|Probe 2|2|Skell wreckage|FN 220|In Orochi’s Belly, guarded by Drake the Waypost. You cannot miss it.|None|
-|Probe 3|4|Vehicle wreckage|S of FN 210 (completes)|On the lower level, a little bit S of Bloodpond Basin BC.|None|
-|Probe 4|1|Skell wreckage|N of FN 208|Bloodpond Basin, against the western mountain range in the Ganglion stronghold. It is in between two pretty big flowers, a little bit N of the edge between FN 206 and the segment N of it.|None|
-|Probe 5|2|Skell wreckage|FN 311|On top of the waterfall, to the E.|None|
-|Probe 6|4|White Whale debris|SE of FN 308 (completes)|Requires flight pack or clever mountaingoating.|None|
-|Probe 7|2|Patrol chopper wreckage|SW of FN 418|Warp to FN 418 and walk SW up the hill. The chopper is almost at the NE edge of the hexagon, in between two groups of level 36-38 Tranquil Blattas.|None|
-|Probe 8|2|White Whale debris|S of FN 507|Slavebird’s isle, on the beach, hard to miss.|None|
-|Probe 9|2|Patrol chopper wreckage|S of FN 511 (completes)|S of the probe site. In one of the openings on the side of that huge palace-like structure.|None|
-|Probe 10|3|Patrol chopper wreckage|SE of FN 506 (completes)|On top of the wall of the palace-like thing. |None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | 4 | White Whale debris | NW of FN 118 (completes) | On the beach. | None |
+| Probe 2 | 2 | Skell wreckage | FN 220 | In Orochi’s Belly, guarded by Drake the Waypost. You cannot miss it. | None |
+| Probe 3 | 4 | Vehicle wreckage | S of FN 210 (completes) | On the lower level, a little bit S of Bloodpond Basin BC. | None |
+| Probe 4 | 1 | Skell wreckage | N of FN 208 | Bloodpond Basin, against the western mountain range in the Ganglion stronghold. It is in between two pretty big flowers, a little bit N of the edge between FN 206 and the segment N of it. | None |
+| Probe 5 | 2 | Skell wreckage | FN 311 | On top of the waterfall, to the E. | None |
+| Probe 6 | 4 | White Whale debris | SE of FN 308 (completes) | Requires flight pack or clever mountaingoating. | None |
+| Probe 7 | 2 | Patrol chopper wreckage | SW of FN 418 | Warp to FN 418 and walk SW up the hill. The chopper is almost at the NE edge of the hexagon, in between two groups of level 36-38 Tranquil Blattas. | None |
+| Probe 8 | 2 | White Whale debris | S of FN 507 | Slavebird’s isle, on the beach, hard to miss. | None |
+| Probe 9 | 2 | Patrol chopper wreckage | S of FN 511 (completes) | S of the probe site. In one of the openings on the side of that huge palace-like structure. | None |
+| Probe 10 | 3 | Patrol chopper wreckage | SE of FN 506 (completes) | On top of the wall of the palace-like thing.  | None |
 
 ##Mining 7 <a name="Mining_7-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|2|Skell wreckage|NE of FN 217|Where you fought the chapter 4 boss there is a small passageway through the mountain range. A level 14 Insidia walks there. The treasure is at the end, overlooking Rust Lake. You can also simply jump up there with a skell from Rust Lake.|None|
-|Probe 2|2|Skell wreckage|SE of FN 412|You know the bridge that goes over the probe site FN 412? The treasure is underneath the bridge, all the way to the east.|None|
-|Probe 3|2|Patrol chopper wreckage|SE of FN 502|In the Ancient Warscape BC, hard to miss.|None|
-|Probe 4|1|Patrol chopper wreckage|FN 515|On the cliffs near the water, near a few Sacrifoles, a little bit N of the probe site. Might require a skell.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | 2 | Skell wreckage | NE of FN 217 | Where you fought the chapter 4 boss there is a small passageway through the mountain range. A level 14 Insidia walks there. The treasure is at the end, overlooking Rust Lake. You can also simply jump up there with a skell from Rust Lake. | None |
+| Probe 2 | 2 | Skell wreckage | SE of FN 412 | You know the bridge that goes over the probe site FN 412? The treasure is underneath the bridge, all the way to the east. | None |
+| Probe 3 | 2 | Patrol chopper wreckage | SE of FN 502 | In the Ancient Warscape BC, hard to miss. | None |
+| Probe 4 | 1 | Patrol chopper wreckage | FN 515 | On the cliffs near the water, near a few Sacrifoles, a little bit N of the probe site. Might require a skell. | None |
 
 ##Mining 8 <a name="Mining_8-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained by completing <strong>Chapter 8</strong>|
-|Probe 2|1|White Whale debris|N of FN 104 (completes)|On the mountain range at Headwater Summit (probably requires a skell).|None|
-|Probe 3|2|White Whale debris|N of FN 210|On the northern beach of the poisoned water, I think this is where the Orphean who needed Senirapa Water was.|None|
-|Probe 4|4|Skell wreckage|SW of FN 224 (completes)|Inside Rockmole’s Burrow.|None|
-|Probe 5|4|Vehicle wreckage|NW of FN 321 (completes)|A little bit S of the Nopon, near the Potamusses (Potami?).|None|
-|Probe 6|4|Skell wreckage|NE of FN 305 (completes)|On the elevated passage, behind a small Ganglion stronghold.|None|
-|Probe 7|4|Skell wreckage|NW of FN 311 (completes)|It is in the mountains. Requires flight pack or clever mountaingoating.|None|
-|Probe 8|4|Skell wreckage|N of FN 316 (completes)|Warp to FN 316, head N and go around the corner.|None|
-|Probe 9|3|Vehicle wreckage|S of FN 318 (completes)|On an elevated level near a level 40 Prometheus Petramand.|None|
-|Probe 10|3|Skell wreckage|N of FN 319 (completes)|Next to the waterfall.|None|
-|Probe 11|4|Skell wreckage|N of FN 314 (completes)|On the beach near Purgovents.|None|
-|Probe 12|2|Vehicle wreckage|FN 317|Drop down from the probe site, it is on the beach near a Duoguill and the not-so-hidden cave with a ton of collectibles.|None|
-|Probe 13|4|White Whale debris|S of FN 315 (completes)|On an elevated level that requires sneaking past a level 49 Simius (or a skell).|None|
-|Probe 14|4|Skell wreckage|N of FN 307 (completes)|On the cliff behind a rock, near level 44 enemies.|None|
-|Probe 15|4|?|NE of FN 316|Requires flight pack or clever mountaingoating.|None|
-|Probe 16|4|Skell wreckage|SE of FN 410 (completes)|On the lower level, there are two Turbas floating above it.|None|
-|Probe 17|2|Skell wreckage|NW of FN 420|On the lowest level, it is a little to the north of the lifehold unit, on top of one of those plateaus that stick out of the sand. To the west of the skell wreckage is the passage that goes between the two mountains.|None|
-|Probe 18|2|Abandoned container|NE of FN 502|In the Nopon camp (hard to miss).|None|
-|Probe 19|2|White Whale debris|SW of FN 504 (completes)|On the lower level, in the lava area.|None|
-|Probe 20|3|Lifepod|NW of FN 512 (completes)|In the lava guarded by two Petramands.|None|
-|Probe 21|3|Lifepod|SE of FN 507 (completes)|Requires flight pack or clever mountaingoating.|None|
-|Probe 22|2|Patrol chopper wreckage|NE of FN 511 (completes)|Down in the pit with Terenty the Blademaster. |None|
-|Probe 23|2|Lifepod|S of FN 503 (completes)|In the lava pit, guarded by a Vigent.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained by completing <strong>Chapter 8</strong> |
+| Probe 2 | 1 | White Whale debris | N of FN 104 (completes) | On the mountain range at Headwater Summit (probably requires a skell). | None |
+| Probe 3 | 2 | White Whale debris | N of FN 210 | On the northern beach of the poisoned water, I think this is where the Orphean who needed Senirapa Water was. | None |
+| Probe 4 | 4 | Skell wreckage | SW of FN 224 (completes) | Inside Rockmole’s Burrow. | None |
+| Probe 5 | 4 | Vehicle wreckage | NW of FN 321 (completes) | A little bit S of the Nopon, near the Potamusses (Potami?). | None |
+| Probe 6 | 4 | Skell wreckage | NE of FN 305 (completes) | On the elevated passage, behind a small Ganglion stronghold. | None |
+| Probe 7 | 4 | Skell wreckage | NW of FN 311 (completes) | It is in the mountains. Requires flight pack or clever mountaingoating. | None |
+| Probe 8 | 4 | Skell wreckage | N of FN 316 (completes) | Warp to FN 316, head N and go around the corner. | None |
+| Probe 9 | 3 | Vehicle wreckage | S of FN 318 (completes) | On an elevated level near a level 40 Prometheus Petramand. | None |
+| Probe 10 | 3 | Skell wreckage | N of FN 319 (completes) | Next to the waterfall. | None |
+| Probe 11 | 4 | Skell wreckage | N of FN 314 (completes) | On the beach near Purgovents. | None |
+| Probe 12 | 2 | Vehicle wreckage | FN 317 | Drop down from the probe site, it is on the beach near a Duoguill and the not-so-hidden cave with a ton of collectibles. | None |
+| Probe 13 | 4 | White Whale debris | S of FN 315 (completes) | On an elevated level that requires sneaking past a level 49 Simius (or a skell). | None |
+| Probe 14 | 4 | Skell wreckage | N of FN 307 (completes) | On the cliff behind a rock, near level 44 enemies. | None |
+| Probe 15 | 4 | ? | NE of FN 316 | Requires flight pack or clever mountaingoating. | None |
+| Probe 16 | 4 | Skell wreckage | SE of FN 410 (completes) | On the lower level, there are two Turbas floating above it. | None |
+| Probe 17 | 2 | Skell wreckage | NW of FN 420 | On the lowest level, it is a little to the north of the lifehold unit, on top of one of those plateaus that stick out of the sand. To the west of the skell wreckage is the passage that goes between the two mountains. | None |
+| Probe 18 | 2 | Abandoned container | NE of FN 502 | In the Nopon camp (hard to miss). | None |
+| Probe 19 | 2 | White Whale debris | SW of FN 504 (completes) | On the lower level, in the lava area. | None |
+| Probe 20 | 3 | Lifepod | NW of FN 512 (completes) | In the lava guarded by two Petramands. | None |
+| Probe 21 | 3 | Lifepod | SE of FN 507 (completes) | Requires flight pack or clever mountaingoating. | None |
+| Probe 22 | 2 | Patrol chopper wreckage | NE of FN 511 (completes) | Down in the pit with Terenty the Blademaster.  | None |
+| Probe 23 | 2 | Lifepod | S of FN 503 (completes) | In the lava pit, guarded by a Vigent. | None |
 
 ##Mining 9 <a name="Mining_9-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|1|Skell wreckage|S of FN 103 (completes)|On the mountain range N of Headwater Summit (might need a skell, not sure).|None|
-|Probe 2|4|Patrol chopper wreckage|S of FN 107 (completes)|On the lone island.|None|
-|Probe 3|2|Skell wreckage|NE of FN 305|On the elevated level behind a small Ganglion stronghold, near level 33-35 Marnucks and Prones.|None|
-|Probe 4|3|Patrol chopper wreckage|NE of FN 419|On the edge of South Delusian Summit, protected by a Mephite and an Adsecula. Jumping down gets you to the entrance to Behemoth’s Shadows.|None|
-|Probe 5|2|Lifepod|SW of FN 512 (completes)|On the mountain range (probaby requires a skell; easy mountaingoating or just a flight pack).|None|
-|Probe 6|2|Patrol chopper wreckage|NE of FN 513|Inside the cage W/NW of Jia Mian the Beloved.|None|
-|Probe 7|4|White Whale debris|NW of FN 224 (completes)|On one of the leaves of the big flower on the eastern side of the mountain. Requires flight pack or clever mountaingoating: start at the higher level of the Canopied Nightwood (it is easiest to warp to Rockmole’s Burrow and go south with your skell over the Nopon Braidbridge) and then travel north over the mountain range.|None|
-|Probe 8|5|Patrol chopper wreckage|NW of FN 412 (completes)|On the lower level protected by a Cinicula. Also contains the level 50 Deus Crusher blueprint.|None|
-|Probe 9|5|White Whale debris|N of FN 108 (completes)|On a floating island. Also contains the level 50 Zenith-Cannon blueprint. Requires flight, though an OoB might also do the trick (unconfirmed).|None|
-|Probe 10|?|?|?|Still searching! Will update ASAP.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | 1 | Skell wreckage | S of FN 103 (completes) | On the mountain range N of Headwater Summit (might need a skell, not sure). | None |
+| Probe 2 | 4 | Patrol chopper wreckage | S of FN 107 (completes) | On the lone island. | None |
+| Probe 3 | 2 | Skell wreckage | NE of FN 305 | On the elevated level behind a small Ganglion stronghold, near level 33-35 Marnucks and Prones. | None |
+| Probe 4 | 3 | Patrol chopper wreckage | NE of FN 419 | On the edge of South Delusian Summit, protected by a Mephite and an Adsecula. Jumping down gets you to the entrance to Behemoth’s Shadows. | None |
+| Probe 5 | 2 | Lifepod | SW of FN 512 (completes) | On the mountain range (probaby requires a skell; easy mountaingoating or just a flight pack). | None |
+| Probe 6 | 2 | Patrol chopper wreckage | NE of FN 513 | Inside the cage W/NW of Jia Mian the Beloved. | None |
+| Probe 7 | 4 | White Whale debris | NW of FN 224 (completes) | On one of the leaves of the big flower on the eastern side of the mountain. Requires flight pack or clever mountaingoating: start at the higher level of the Canopied Nightwood (it is easiest to warp to Rockmole’s Burrow and go south with your skell over the Nopon Braidbridge) and then travel north over the mountain range. | None |
+| Probe 8 | 5 | Patrol chopper wreckage | NW of FN 412 (completes) | On the lower level protected by a Cinicula. Also contains the level 50 Deus Crusher blueprint. | None |
+| Probe 9 | 5 | White Whale debris | N of FN 108 (completes) | On a floating island. Also contains the level 50 Zenith-Cannon blueprint. Requires flight, though an OoB might also do the trick (unconfirmed). | None |
+| Probe 10 | ? | ? | ? | Still searching! Will update ASAP. | None |
 
 ##Mining 10 <a name="Mining_10-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Fill out <strong>Sylvalum’s Collectopedia</strong> page|
-|Probe 2|2|Trailer wreckage|SE of FN 304|On the NW edge of the segment, on a cliff.|None|
-|Probe 3|3|Patrol chopper wreckage|NW of FN 415|In the middle of the hexagon on a higher level there are a bunch of Puges, Zigs, Qmoevas, and the usual suspects (level 43ish). The chopper is on this raised platorm. For reference: this platform is to the east of the sleeping vigent tyrant (Goliath). It can be reached with some basic mountaingoating, don’t know if a skell is required.|None|
-|Probe 4|4|Abandoned container|n/a|Inside Infernal Ledges. Also contains the level 50 Megaflame blueprint.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Fill out <strong>Sylvalum’s Collectopedia</strong> page |
+| Probe 2 | 2 | Trailer wreckage | SE of FN 304 | On the NW edge of the segment, on a cliff. | None |
+| Probe 3 | 3 | Patrol chopper wreckage | NW of FN 415 | In the middle of the hexagon on a higher level there are a bunch of Puges, Zigs, Qmoevas, and the usual suspects (level 43ish). The chopper is on this raised platorm. For reference: this platform is to the east of the sleeping vigent tyrant (Goliath). It can be reached with some basic mountaingoating, don’t know if a skell is required. | None |
+| Probe 4 | 4 | Abandoned container | n/a | Inside Infernal Ledges. Also contains the level 50 Megaflame blueprint. | None |
 
 ##Research 1 <a name="Research_1-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained by completing <strong>Chapter 2</strong>|
-|Probe 2|None|None|None|None|None|Obtained during the normal mission <strong>The Probe-fessional</strong>|
-|Probe 3|2|Patrol chopper wreckage|FN 119|In front of Seaswept Base, near two level 1 Skell wreckages. You probably got this one in chapter 3 already. Also contains a Mining 1 probe.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained by completing <strong>Chapter 2</strong> |
+| Probe 2 | None | None | None | None | None | Obtained during the normal mission <strong>The Probe-fessional</strong> |
+| Probe 3 | 2 | Patrol chopper wreckage | FN 119 | In front of Seaswept Base, near two level 1 Skell wreckages. You probably got this one in chapter 3 already. Also contains a Mining 1 probe. | None |
 
 ##Research 2 <a name="Research_2-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>The Probe-fessional</strong>|
-|Probe 2|1|Vehicle wreckage|S of FN 204|Down the waterfall on the western bank, beneath the huge branch.|None|
-|Probe 3|2|Abandoned container|On the intersection of the segments NE of FN 306, NW of FN 312 and S of FN 309|About halfway up the rock (might require a skell).|None|
-|Probe 4|2|Trailer wreckage|N of FN 403|Near the water|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>The Probe-fessional</strong> |
+| Probe 2 | 1 | Vehicle wreckage | S of FN 204 | Down the waterfall on the western bank, beneath the huge branch. | None |
+| Probe 3 | 2 | Abandoned container | On the intersection of the segments NE of FN 306, NW of FN 312 and S of FN 309 | About halfway up the rock (might require a skell). | None |
+| Probe 4 | 2 | Trailer wreckage | N of FN 403 | Near the water | None |
 
 ##Research 3 <a name="Research_3-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|1|Skell wreckage|NW of FN 211|In the pond where you first encounter the Orpheans.|None|
-|Probe 2|2|Patrol chopper wreckage|N of FN 405|Just outside Ciel Lake, guarded by a Germivore.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | 1 | Skell wreckage | NW of FN 211 | In the pond where you first encounter the Orpheans. | None |
+| Probe 2 | 2 | Patrol chopper wreckage | N of FN 405 | Just outside Ciel Lake, guarded by a Germivore. | None |
 
 ##Research 4 <a name="Research_4-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained by completing <strong>Chapter 7</strong>|
-|Probe 2|2|Skell wreckage|n/a|Inside Whale’s Nostril|None|
-|Probe 3|2|Skell wreckage|NW of FN 305|On the winding road connecting the beach and the upper level.|None|
-|Probe 4|2|White Whale debris|n/a|On the big island between Primordia and Sylvalum, along the northern coast.|None|
-|Probe 5|2|Skell wreckage|NE of FN 401|Warp to FN 401 and look north. See the Falsaxum, the tree with the green orb and the rocks with the three green crystals? It is behind the rock with the crystals.|None|
-|Probe 6|3|White Whale debris|FN 502|In a crevice between a mountain range and what I presume to be the ruins of an ancient building. Requires flight pack or clever mountaingoating.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained by completing <strong>Chapter 7</strong> |
+| Probe 2 | 2 | Skell wreckage | n/a | Inside Whale’s Nostril | None |
+| Probe 3 | 2 | Skell wreckage | NW of FN 305 | On the winding road connecting the beach and the upper level. | None |
+| Probe 4 | 2 | White Whale debris | n/a | On the big island between Primordia and Sylvalum, along the northern coast. | None |
+| Probe 5 | 2 | Skell wreckage | NE of FN 401 | Warp to FN 401 and look north. See the Falsaxum, the tree with the green orb and the rocks with the three green crystals? It is behind the rock with the crystals. | None |
+| Probe 6 | 3 | White Whale debris | FN 502 | In a crevice between a mountain range and what I presume to be the ruins of an ancient building. Requires flight pack or clever mountaingoating. | None |
 
 ##Research 5 <a name="Research_5-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Fill out <strong>Oblivia’s Collectopedia</strong> page. Requires the flight pack or getting really lucky with scout rewards.|
-|Probe 2|3|Abandoned container|SW of FN 108|On the N edge of the segment, in a tiny Ganglion stronghold. It is just a stone rectangle with a “podium” on one of the corners.|None|
-|Probe 3|2|Skell wreckage|SE of FN 221 (completes)|Inside Ensanguined Font.|None|
-|Probe 4|3|White Whale debris|SE of FN 216|On the SW border of the segment. Jump down the waterfall from FN 216 and then go to the beach with the Adseculas and Forfexes (Forfices?).|None|
-|Probe 5|2|Skell wreckage|SW of FN 317|Behind the huge ring in the water.|None|
-|Probe 6|3|Skell wreckage|SW of FN 413|On top of the huge wall separating Ciel Lake from the Sandsea, near the Zig guarding Bobora at Xanadu Overlook.|None|
-|Probe 7|Archealogical 4?|?|?||None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Fill out <strong>Oblivia’s Collectopedia</strong> page. Requires the flight pack or getting really lucky with scout rewards. |
+| Probe 2 | 3 | Abandoned container | SW of FN 108 | On the N edge of the segment, in a tiny Ganglion stronghold. It is just a stone rectangle with a “podium” on one of the corners. | None |
+| Probe 3 | 2 | Skell wreckage | SE of FN 221 (completes) | Inside Ensanguined Font. | None |
+| Probe 4 | 3 | White Whale debris | SE of FN 216 | On the SW border of the segment. Jump down the waterfall from FN 216 and then go to the beach with the Adseculas and Forfexes (Forfices?). | None |
+| Probe 5 | 2 | Skell wreckage | SW of FN 317 | Behind the huge ring in the water. | None |
+| Probe 6 | 3 | Skell wreckage | SW of FN 413 | On top of the huge wall separating Ciel Lake from the Sandsea, near the Zig guarding Bobora at Xanadu Overlook. | None |
+| Probe 7 | Archealogical 4? | ? | ? |  | None |
 
 ##Research 6 <a name="Research_6-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|3|Vehicle wreckage|NW (yes!) of FN 223|In the Weeping Whitewood, in the area with the poisonous water and the Purgovents. It is hidden against the E/SE wall. A yellow square should be visible from anywhere within the eastern pool of poisonous water.|None|
-|Probe 2|3|Abandoned container|On the intersection of FN 306 and the segments NE and N of FN 306|South Ant’s Nest.|None|
-|Probe 3|2|Skell wreckage|On the intersection of FN 419 and the segments NE and SE of FN 419.|On top of the mountain range. Requires flight or clever mountaingoating.|None|
-|Probe 4|3|Skell wreckage|NW of FN 504|On a pillar in the lava that supports a bridge with a Cantor on it.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | 3 | Vehicle wreckage | NW (yes!) of FN 223 | In the Weeping Whitewood, in the area with the poisonous water and the Purgovents. It is hidden against the E/SE wall. A yellow square should be visible from anywhere within the eastern pool of poisonous water. | None |
+| Probe 2 | 3 | Abandoned container | On the intersection of FN 306 and the segments NE and N of FN 306 | South Ant’s Nest. | None |
+| Probe 3 | 2 | Skell wreckage | On the intersection of FN 419 and the segments NE and SE of FN 419. | On top of the mountain range. Requires flight or clever mountaingoating. | None |
+| Probe 4 | 3 | Skell wreckage | NW of FN 504 | On a pillar in the lava that supports a bridge with a Cantor on it. | None |
 
 ##Booster 1 <a name="Booster_1-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Planetary Pioneer (Part I)</strong>|
-|Probe 2|None|None|None|None|None|Obtained from the normal mission <strong>Orphean Pluck</strong>|
-|Probe 3|None|None|None|None|None|Obtained from the normal mission <strong>Wrothian Innovation</strong>|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Planetary Pioneer (Part I)</strong> |
+| Probe 2 | None | None | None | None | None | Obtained from the normal mission <strong>Orphean Pluck</strong> |
+| Probe 3 | None | None | None | None | None | Obtained from the normal mission <strong>Wrothian Innovation</strong> |
 
 ##Booster 2 <a name="Booster_2-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Planetary Pioneer (Part III)</strong>|
-|Probe 2|None|None|None|None|None|Obtained from the normal mission <strong>New Frontier</strong>|
-|Probe 3|None|None|None|None|None|Fill out <strong>Primordia’s Collectopedia</strong> page|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Planetary Pioneer (Part III)</strong> |
+| Probe 2 | None | None | None | None | None | Obtained from the normal mission <strong>New Frontier</strong> |
+| Probe 3 | None | None | None | None | None | Fill out <strong>Primordia’s Collectopedia</strong> page |
 
 ##Storage <a name="Storage-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained by completing <strong>Chapter 3</strong>|
-|Probe 2|None|None|None|None|None|Obtained by completing <strong>Chapter 4</strong>|
-|Probe 3|None|None|None|None|None|Obtained by completing <strong>Chapter 6</strong>|
-|Probe 4|None|None|None|None|None|Obtained by completing <strong>Chapter 9</strong>|
-|Probe 5|None|None|None|None|None|Obtained by completing <strong>Chapter 11</strong>|
-|Probe 6|None|None|None|None|None|Obtained from the normal mission <strong>The Probe-fessional</strong>|
-|Probe 7|None|None|None|None|None|Obtained from the normal mission <strong>Planetary Pioneer (Part IV)</strong>|
-|Probe 8|None|None|None|None|None|Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong>|
-|Probe 9|None|None|None|None|None|Fill out <strong>Cauldros’s Collectopedia</strong> page|
-|Probe 10|4|Patrol chopper wreckage|S of FN 514 (completes)|On the cliffs near the water (might require a skell).|None|
-|Probe 11|2|Patrol chopper wreckage|SW of FN 404|In one of the holes near the bottom of Cavernous Abyss. There is a Cantor walking in the hole, and there are Milsaadi Champions(?) guarding the chopper. (Flight absolutely required; as far as I know nobody has managed to climb the cavernous Abyss prior to obtaining the flight module yet)|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained by completing <strong>Chapter 3</strong> |
+| Probe 2 | None | None | None | None | None | Obtained by completing <strong>Chapter 4</strong> |
+| Probe 3 | None | None | None | None | None | Obtained by completing <strong>Chapter 6</strong> |
+| Probe 4 | None | None | None | None | None | Obtained by completing <strong>Chapter 9</strong> |
+| Probe 5 | None | None | None | None | None | Obtained by completing <strong>Chapter 11</strong> |
+| Probe 6 | None | None | None | None | None | Obtained from the normal mission <strong>The Probe-fessional</strong> |
+| Probe 7 | None | None | None | None | None | Obtained from the normal mission <strong>Planetary Pioneer (Part IV)</strong> |
+| Probe 8 | None | None | None | None | None | Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong> |
+| Probe 9 | None | None | None | None | None | Fill out <strong>Cauldros’s Collectopedia</strong> page |
+| Probe 10 | 4 | Patrol chopper wreckage | S of FN 514 (completes) | On the cliffs near the water (might require a skell). | None |
+| Probe 11 | 2 | Patrol chopper wreckage | SW of FN 404 | In one of the holes near the bottom of Cavernous Abyss. There is a Cantor walking in the hole, and there are Milsaadi Champions(?) guarding the chopper. (Flight absolutely required; as far as I know nobody has managed to climb the cavernous Abyss prior to obtaining the flight module yet) | None |
 
 ##Duplicator <a name="Duplicator-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained by completing <strong>Chapter 5</strong>|
-|Probe 2|None|None|None|None|None|Obtained from the normal mission <strong>The Root of All Evil</strong>|
-|Probe 3|None|None|None|None|None|Obtained from the normal mission <strong>Entrepreneurial Spirit</strong>|
-|Probe 4|1|Abandoned container|FN 307|In the same cave as where you find the Dancer’s Clothes for the normal mission |None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained by completing <strong>Chapter 5</strong> |
+| Probe 2 | None | None | None | None | None | Obtained from the normal mission <strong>The Root of All Evil</strong> |
+| Probe 3 | None | None | None | None | None | Obtained from the normal mission <strong>Entrepreneurial Spirit</strong> |
+| Probe 4 | 1 | Abandoned container | FN 307 | In the same cave as where you find the Dancer’s Clothes for the normal mission  | None |
 
 ##Fuel Recovery <a name="Fuel_Recovery-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Data Probe Challenge</strong>|
-|Probe 2|None|None|None|None|None|Fill out <strong>Noctilum’s Collectopedia</strong> page|
-|Probe 3|?|?|?|Still searching! Will update ASAP.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Data Probe Challenge</strong> |
+| Probe 2 | None | None | None | None | None | Fill out <strong>Noctilum’s Collectopedia</strong> page |
+| Probe 3 | ? | ? | ? | Still searching! Will update ASAP. | None |
 
 ##Melee Attack <a name="Melee_Attack-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Data Probe Progress</strong>|
-|Probe 2|5|White Whale debris|SW of FN 119|On top of the rock roof over Windswept Ridge and Eutropio the Sea Rumble. The same treasure also contains the level 50 Zweihand-Q blueprint. (Requires flight pack or a clever longjump with your skell; in the area with the Levitath tyrant, go all the way south, jump on the tall rock that overlooks the sea. If you look SW you see a part of the rock roof, it can be reached with a longjump. Then simply drive up to the treasure).|None|
-|Probe 3|?|?|?|Still searching! Will update ASAP.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Data Probe Progress</strong> |
+| Probe 2 | 5 | White Whale debris | SW of FN 119 | On top of the rock roof over Windswept Ridge and Eutropio the Sea Rumble. The same treasure also contains the level 50 Zweihand-Q blueprint. (Requires flight pack or a clever longjump with your skell; in the area with the Levitath tyrant, go all the way south, jump on the tall rock that overlooks the sea. If you look SW you see a part of the rock roof, it can be reached with a longjump. Then simply drive up to the treasure). | None |
+| Probe 3 | ? | ? | ? | Still searching! Will update ASAP. | None |
 
 ##Ranged Attack <a name="Ranged_Attack-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Data Probe Breakthrough</strong>|
-|Probe 2|4|Abandoned container|N of FN 507|Inside Bandit’s Refuge, hard to miss.|None|
-|Probe 3|?|?|?|Still searching! Will update ASAP.|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Data Probe Breakthrough</strong> |
+| Probe 2 | 4 | Abandoned container | N of FN 507 | Inside Bandit’s Refuge, hard to miss. | None |
+| Probe 3 | ? | ? | ? | Still searching! Will update ASAP. | None |
 
 ##EZ Debuff <a name="EZ_Debuff-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Data Probe Evolution</strong>|
-|Probe 2|3|Vehicle wreckage|NE of FN 318|In the same area as Bertrand the Gorge Scourge|None|
-|Probe 3|4|Patrol chopper wreckage|SE  of FN 206 (completes)|In Sentinel’s Nest, guarded by Balduino the Wicked-Eyed. (Requires flight pack or |None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Data Probe Evolution</strong> |
+| Probe 2 | 3 | Vehicle wreckage | NE of FN 318 | In the same area as Bertrand the Gorge Scourge | None |
+| Probe 3 | 4 | Patrol chopper wreckage | SE  of FN 206 (completes) | In Sentinel’s Nest, guarded by Balduino the Wicked-Eyed. (Requires flight pack or  | None |
 
 ##Attribute Resistance <a name="Attribute_Resistance-t"></a>
-|Probe|Level|Type|Segment|Location|Info|
-|---||---||---||---||---||---|
-|Probe 1|None|None|None|None|None|Obtained from the normal mission <strong>Data Probe Revolution</strong>|
-|Probe 2|4|Patrol chopper wreckage|SE of FN 419|Near the NE border of the segment, near a group of Adseculas.|None|
-|Probe 3|5|Patrol chopper wreckage|FN 513|Atop Mount M’Gando|None|
+| Probe | Level | Type | Segment | Location | Info |
+| --- || --- || --- || --- || --- || --- |
+| Probe 1 | None | None | None | None | None | Obtained from the normal mission <strong>Data Probe Revolution</strong> |
+| Probe 2 | 4 | Patrol chopper wreckage | SE of FN 419 | Near the NE border of the segment, near a group of Adseculas. | None |
+| Probe 3 | 5 | Patrol chopper wreckage | FN 513 | Atop Mount M’Gando | None |
 
 #Notes <a name="notes"></a>
 - N means north, S  means south, etc.
