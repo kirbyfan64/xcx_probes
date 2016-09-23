@@ -41,6 +41,8 @@ last_elem = partial(reduce, lambda _, x: x)
 just_tags = partial(filter, lambda x: isinstance(x, Tag))
 
 linkify_probe = lambda s: s.replace(' ', '_')
+thify = '<th>{}</th>'.format
+tdify = '<td>{}</td>'.format
 
 class Document:
     def __init__(self, intro, groups, notes, history, ack):
@@ -91,8 +93,8 @@ class Document:
         res.append('#Probe table <a name="probes-t"></a>')
         for name, probes in self.groups.items():
             res.append('##%s <a name="%s-t"></a>' % (name, linkify_probe(name)))
-            res.append('| Probe | %s |' % ' | '.join(PROBE_INFO))
-            res.append('| --- |'*(len(PROBE_INFO)+1))
+            res.append('<table>')
+            res.append('<tr>%s</tr>' % ''.join(map(thify, ['Probe']+PROBE_INFO)))
             for probe, items in probes.items():
                 cols = [probe]
                 if len(items) == 1 and isinstance(items[0], str):
@@ -102,7 +104,7 @@ class Document:
                     items_d = dict(items)
                     cols.extend([items_d[k] for k in PROBE_INFO[:-1]])
                     cols.append('None')
-                res.append('| %s |' % ' | '.join(cols))
+                res.append('<tr>%s</tr>' % ''.join(map(tdify, cols)))
             res.append('')
 
         info = [
