@@ -1109,6 +1109,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 
 #Probe table <a name="probes-t"></a>
 ##Mining 1 <a name="Mining_1-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
@@ -1133,6 +1134,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 20</td><td>1</td><td>Skell wreckage</td><td>Warp to Emerian Battlegrounds and look in the pit to the SE. </td><td>It’s underneath the Ceto. The Ceto might be gone/replaced during the day or the night though.</td><td>None</td></tr>
 
 ##Mining 2 <a name="Mining_2-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after completing the normal mission <strong>The Probe-fessional</strong></td></tr>
@@ -1161,6 +1163,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 24</td><td>2</td><td>Trailer wreckage</td><td>Primordia waters (between Primordia and Sylvalum)</td><td>When you go from Primordia to Sylvalum from FN 113, after you pass the big island, ride/walk over the patches of sand that lead to Sylvalum. You should see a yellow square in the NE corner of the minimap. There are also 2 Prones and a Puge on the island with the trailer.</td><td>None</td></tr>
 
 ##Mining 3 <a name="Mining_3-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>1</td><td>Vehicle wreckage</td><td>N of FN 220</td><td>On a western cliff overlooking the waters, guarded by a Simius.</td><td>None</td></tr>
@@ -1172,6 +1175,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 7</td><td>?</td><td>?</td><td>?</td><td>I have not yet located this probe, though I know it must be available before completing chapter 9, because another save file of mine had seven Mining 3 probes before chapter 9. Will update ASAP.</td><td>None</td></tr>
 
 ##Mining 4 <a name="Mining_4-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>2</td><td>Skell wreckage</td><td>NE of FN 106 (completes)</td><td>n/a</td><td>None</td></tr>
@@ -1191,6 +1195,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 15</td><td>1</td><td>White Whale debris</td><td>SW of FN 501 (completes)</td><td>On the volcano. Also contains a Mining 3 probe.</td><td>None</td></tr>
 
 ##Mining 5 <a name="Mining_5-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong></td></tr>
@@ -1204,6 +1209,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 9</td><td>1</td><td>Patrol chopper wreckage</td><td>n/a</td><td>Warp to Emerian Battlegrounds and look in the pit N/NE. It is next to the flowers.</td><td>None</td></tr>
 
 ##Mining 6 <a name="Mining_6-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>4</td><td>White Whale debris</td><td>NW of FN 118 (completes)</td><td>On the beach.</td><td>None</td></tr>
@@ -1218,6 +1224,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 10</td><td>3</td><td>Patrol chopper wreckage</td><td>SE of FN 506 (completes)</td><td>On top of the wall of the palace-like thing. </td><td>None</td></tr>
 
 ##Mining 7 <a name="Mining_7-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>2</td><td>Skell wreckage</td><td>NE of FN 217</td><td>Where you fought the chapter 4 boss there is a small passageway through the mountain range. A level 14 Insidia walks there. The treasure is at the end, overlooking Rust Lake. You can also simply jump up there with a skell from Rust Lake.</td><td>None</td></tr>
@@ -1226,6 +1233,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 4</td><td>1</td><td>Patrol chopper wreckage</td><td>FN 515</td><td>On the cliffs near the water, near a few Sacrifoles, a little bit N of the probe site. Might require a skell.</td><td>None</td></tr>
 
 ##Mining 8 <a name="Mining_8-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 8</strong></td></tr>
@@ -1253,6 +1261,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 23</td><td>2</td><td>Lifepod</td><td>S of FN 503 (completes)</td><td>In the lava pit, guarded by a Vigent.</td><td>None</td></tr>
 
 ##Mining 9 <a name="Mining_9-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>1</td><td>Skell wreckage</td><td>S of FN 103 (completes)</td><td>On the mountain range N of Headwater Summit (might need a skell, not sure).</td><td>None</td></tr>
@@ -1267,6 +1276,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 10</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 
 ##Mining 10 <a name="Mining_10-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Sylvalum’s Collectopedia</strong> page</td></tr>
@@ -1275,6 +1285,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 4</td><td>4</td><td>Abandoned container</td><td>n/a</td><td>Inside Infernal Ledges. Also contains the level 50 Megaflame blueprint.</td><td>None</td></tr>
 
 ##Research 1 <a name="Research_1-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
@@ -1282,6 +1293,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 3</td><td>2</td><td>Patrol chopper wreckage</td><td>FN 119</td><td>In front of Seaswept Base, near two level 1 Skell wreckages. You probably got this one in chapter 3 already. Also contains a Mining 1 probe.</td><td>None</td></tr>
 
 ##Research 2 <a name="Research_2-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>The Probe-fessional</strong></td></tr>
@@ -1290,12 +1302,14 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 4</td><td>2</td><td>Trailer wreckage</td><td>N of FN 403</td><td>Near the water</td><td>None</td></tr>
 
 ##Research 3 <a name="Research_3-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>1</td><td>Skell wreckage</td><td>NW of FN 211</td><td>In the pond where you first encounter the Orpheans.</td><td>None</td></tr>
 <tr><td>Probe 2</td><td>2</td><td>Patrol chopper wreckage</td><td>N of FN 405</td><td>Just outside Ciel Lake, guarded by a Germivore.</td><td>None</td></tr>
 
 ##Research 4 <a name="Research_4-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 7</strong></td></tr>
@@ -1306,6 +1320,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 6</td><td>3</td><td>White Whale debris</td><td>FN 502</td><td>In a crevice between a mountain range and what I presume to be the ruins of an ancient building. Requires flight pack or clever mountaingoating.</td><td>None</td></tr>
 
 ##Research 5 <a name="Research_5-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Oblivia’s Collectopedia</strong> page. Requires the flight pack or getting really lucky with scout rewards.</td></tr>
@@ -1317,6 +1332,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 7</td><td>Archealogical 4?</td><td>?</td><td>?</td><td></td><td>None</td></tr>
 
 ##Research 6 <a name="Research_6-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>3</td><td>Vehicle wreckage</td><td>NW (yes!) of FN 223</td><td>In the Weeping Whitewood, in the area with the poisonous water and the Purgovents. It is hidden against the E/SE wall. A yellow square should be visible from anywhere within the eastern pool of poisonous water.</td><td>None</td></tr>
@@ -1325,6 +1341,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 4</td><td>3</td><td>Skell wreckage</td><td>NW of FN 504</td><td>On a pillar in the lava that supports a bridge with a Cantor on it.</td><td>None</td></tr>
 
 ##Booster 1 <a name="Booster_1-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part I)</strong></td></tr>
@@ -1332,6 +1349,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Wrothian Innovation</strong></td></tr>
 
 ##Booster 2 <a name="Booster_2-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part III)</strong></td></tr>
@@ -1339,6 +1357,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Primordia’s Collectopedia</strong> page</td></tr>
 
 ##Storage <a name="Storage-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 3</strong></td></tr>
@@ -1354,6 +1373,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 11</td><td>2</td><td>Patrol chopper wreckage</td><td>SW of FN 404</td><td>In one of the holes near the bottom of Cavernous Abyss. There is a Cantor walking in the hole, and there are Milsaadi Champions(?) guarding the chopper. (Flight absolutely required; as far as I know nobody has managed to climb the cavernous Abyss prior to obtaining the flight module yet)</td><td>None</td></tr>
 
 ##Duplicator <a name="Duplicator-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 5</strong></td></tr>
@@ -1362,6 +1382,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 4</td><td>1</td><td>Abandoned container</td><td>FN 307</td><td>In the same cave as where you find the Dancer’s Clothes for the normal mission </td><td>None</td></tr>
 
 ##Fuel Recovery <a name="Fuel_Recovery-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Challenge</strong></td></tr>
@@ -1369,6 +1390,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 
 ##Melee Attack <a name="Melee_Attack-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Progress</strong></td></tr>
@@ -1376,6 +1398,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 
 ##Ranged Attack <a name="Ranged_Attack-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Breakthrough</strong></td></tr>
@@ -1383,6 +1406,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 
 ##EZ Debuff <a name="EZ_Debuff-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Evolution</strong></td></tr>
@@ -1390,6 +1414,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 3</td><td>4</td><td>Patrol chopper wreckage</td><td>SE  of FN 206 (completes)</td><td>In Sentinel’s Nest, guarded by Balduino the Wicked-Eyed. (Requires flight pack or </td><td>None</td></tr>
 
 ##Attribute Resistance <a name="Attribute_Resistance-t"></a>
+
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Revolution</strong></td></tr>
