@@ -1111,11 +1111,11 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Mining 1 <a name="Mining_1-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
-<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after starting the normal mission <strong>The Probe-fessional</strong> </td></tr>
-<tr><td>Probe 4</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after starting the normal mission <strong>The Probe-fessional</strong></td></tr>
-<tr><td>Probe 5</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after starting the normal mission <strong>The Probe-fessional</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
+<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after starting the normal mission <strong>The Probe-fessional</strong> </td></tr>
+<tr><td>Probe 4</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after starting the normal mission <strong>The Probe-fessional</strong></td></tr>
+<tr><td>Probe 5</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after starting the normal mission <strong>The Probe-fessional</strong></td></tr>
 <tr><td>Probe 6</td><td>1</td><td>Vehicle wreckage</td><td>NE of FN 102</td><td>Near Shadow Beach BC</td><td>None</td></tr>
 <tr><td>Probe 7</td><td>1</td><td>White Whale debris</td><td>SE of FN 104 (completes)</td><td>n/a</td><td>None</td></tr>
 <tr><td>Probe 8</td><td>1</td><td>Skell wreckage</td><td>NW of FN 103 (completes)</td><td>n/a</td><td>None</td></tr>
@@ -1135,7 +1135,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Mining 2 <a name="Mining_2-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after completing the normal mission <strong>The Probe-fessional</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained after completing the normal mission <strong>The Probe-fessional</strong></td></tr>
 <tr><td>Probe 2</td><td>3</td><td>Container</td><td>2nd segment N of the Integrated Production Plant</td><td>n/a</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>2</td><td>Container</td><td>N of the Pizzeria, the 2nd segment SW of Barista Court</td><td>n/a</td><td>None</td></tr>
 <tr><td>Probe 4</td><td>3</td><td>Trailer</td><td>?</td><td>Parking lot 2 NE of the cathedral</td><td>None</td></tr>
@@ -1193,7 +1193,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Mining 5 <a name="Mining_5-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong></td></tr>
 <tr><td>Probe 2</td><td>1</td><td>Skell wreckage</td><td>NW of FN 211</td><td>On a big branch next to a waterfall in the passageway on the lower level, on the western side of the passageway.</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>1</td><td>Skell wreckage</td><td>FN 208</td><td>Bloodpond Basin, at the bottom of the western mountain range at the Ganglion stronghold.</td><td>None</td></tr>
 <tr><td>Probe 4</td><td>2</td><td>Skell wreckage</td><td>FN 215</td><td>On the NE border of the hexagon, in Weeping Whitewood. Check the western wall.</td><td>None</td></tr>
@@ -1228,7 +1228,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Mining 8 <a name="Mining_8-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 8</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 8</strong></td></tr>
 <tr><td>Probe 2</td><td>1</td><td>White Whale debris</td><td>N of FN 104 (completes)</td><td>On the mountain range at Headwater Summit (probably requires a skell).</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>2</td><td>White Whale debris</td><td>N of FN 210</td><td>On the northern beach of the poisoned water, I think this is where the Orphean who needed Senirapa Water was.</td><td>None</td></tr>
 <tr><td>Probe 4</td><td>4</td><td>Skell wreckage</td><td>SW of FN 224 (completes)</td><td>Inside Rockmole’s Burrow.</td><td>None</td></tr>
@@ -1269,7 +1269,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Mining 10 <a name="Mining_10-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Sylvalum’s Collectopedia</strong> page</td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Sylvalum’s Collectopedia</strong> page</td></tr>
 <tr><td>Probe 2</td><td>2</td><td>Trailer wreckage</td><td>SE of FN 304</td><td>On the NW edge of the segment, on a cliff.</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>3</td><td>Patrol chopper wreckage</td><td>NW of FN 415</td><td>In the middle of the hexagon on a higher level there are a bunch of Puges, Zigs, Qmoevas, and the usual suspects (level 43ish). The chopper is on this raised platorm. For reference: this platform is to the east of the sleeping vigent tyrant (Goliath). It can be reached with some basic mountaingoating, don’t know if a skell is required.</td><td>None</td></tr>
 <tr><td>Probe 4</td><td>4</td><td>Abandoned container</td><td>n/a</td><td>Inside Infernal Ledges. Also contains the level 50 Megaflame blueprint.</td><td>None</td></tr>
@@ -1277,14 +1277,14 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Research 1 <a name="Research_1-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained during the normal mission <strong>The Probe-fessional</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 2</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained during the normal mission <strong>The Probe-fessional</strong></td></tr>
 <tr><td>Probe 3</td><td>2</td><td>Patrol chopper wreckage</td><td>FN 119</td><td>In front of Seaswept Base, near two level 1 Skell wreckages. You probably got this one in chapter 3 already. Also contains a Mining 1 probe.</td><td>None</td></tr>
 
 ##Research 2 <a name="Research_2-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>The Probe-fessional</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>The Probe-fessional</strong></td></tr>
 <tr><td>Probe 2</td><td>1</td><td>Vehicle wreckage</td><td>S of FN 204</td><td>Down the waterfall on the western bank, beneath the huge branch.</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>2</td><td>Abandoned container</td><td>On the intersection of the segments NE of FN 306, NW of FN 312 and S of FN 309</td><td>About halfway up the rock (might require a skell).</td><td>None</td></tr>
 <tr><td>Probe 4</td><td>2</td><td>Trailer wreckage</td><td>N of FN 403</td><td>Near the water</td><td>None</td></tr>
@@ -1298,7 +1298,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Research 4 <a name="Research_4-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 7</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 7</strong></td></tr>
 <tr><td>Probe 2</td><td>2</td><td>Skell wreckage</td><td>n/a</td><td>Inside Whale’s Nostril</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>2</td><td>Skell wreckage</td><td>NW of FN 305</td><td>On the winding road connecting the beach and the upper level.</td><td>None</td></tr>
 <tr><td>Probe 4</td><td>2</td><td>White Whale debris</td><td>n/a</td><td>On the big island between Primordia and Sylvalum, along the northern coast.</td><td>None</td></tr>
@@ -1308,7 +1308,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Research 5 <a name="Research_5-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Oblivia’s Collectopedia</strong> page. Requires the flight pack or getting really lucky with scout rewards.</td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Oblivia’s Collectopedia</strong> page. Requires the flight pack or getting really lucky with scout rewards.</td></tr>
 <tr><td>Probe 2</td><td>3</td><td>Abandoned container</td><td>SW of FN 108</td><td>On the N edge of the segment, in a tiny Ganglion stronghold. It is just a stone rectangle with a “podium” on one of the corners.</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>2</td><td>Skell wreckage</td><td>SE of FN 221 (completes)</td><td>Inside Ensanguined Font.</td><td>None</td></tr>
 <tr><td>Probe 4</td><td>3</td><td>White Whale debris</td><td>SE of FN 216</td><td>On the SW border of the segment. Jump down the waterfall from FN 216 and then go to the beach with the Adseculas and Forfexes (Forfices?).</td><td>None</td></tr>
@@ -1327,72 +1327,72 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 ##Booster 1 <a name="Booster_1-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part I)</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Orphean Pluck</strong></td></tr>
-<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Wrothian Innovation</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part I)</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Orphean Pluck</strong></td></tr>
+<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Wrothian Innovation</strong></td></tr>
 
 ##Booster 2 <a name="Booster_2-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part III)</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>New Frontier</strong></td></tr>
-<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Primordia’s Collectopedia</strong> page</td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part III)</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>New Frontier</strong></td></tr>
+<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Primordia’s Collectopedia</strong> page</td></tr>
 
 ##Storage <a name="Storage-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 3</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 4</strong></td></tr>
-<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 6</strong></td></tr>
-<tr><td>Probe 4</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 9</strong></td></tr>
-<tr><td>Probe 5</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 11</strong></td></tr>
-<tr><td>Probe 6</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>The Probe-fessional</strong></td></tr>
-<tr><td>Probe 7</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part IV)</strong></td></tr>
-<tr><td>Probe 8</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong></td></tr>
-<tr><td>Probe 9</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Cauldros’s Collectopedia</strong> page</td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 3</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 4</strong></td></tr>
+<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 6</strong></td></tr>
+<tr><td>Probe 4</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 9</strong></td></tr>
+<tr><td>Probe 5</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 11</strong></td></tr>
+<tr><td>Probe 6</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>The Probe-fessional</strong></td></tr>
+<tr><td>Probe 7</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part IV)</strong></td></tr>
+<tr><td>Probe 8</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Planetary Pioneer (Part V)</strong></td></tr>
+<tr><td>Probe 9</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Cauldros’s Collectopedia</strong> page</td></tr>
 <tr><td>Probe 10</td><td>4</td><td>Patrol chopper wreckage</td><td>S of FN 514 (completes)</td><td>On the cliffs near the water (might require a skell).</td><td>None</td></tr>
 <tr><td>Probe 11</td><td>2</td><td>Patrol chopper wreckage</td><td>SW of FN 404</td><td>In one of the holes near the bottom of Cavernous Abyss. There is a Cantor walking in the hole, and there are Milsaadi Champions(?) guarding the chopper. (Flight absolutely required; as far as I know nobody has managed to climb the cavernous Abyss prior to obtaining the flight module yet)</td><td>None</td></tr>
 
 ##Duplicator <a name="Duplicator-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 5</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>The Root of All Evil</strong></td></tr>
-<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Entrepreneurial Spirit</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 5</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>The Root of All Evil</strong></td></tr>
+<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Entrepreneurial Spirit</strong></td></tr>
 <tr><td>Probe 4</td><td>1</td><td>Abandoned container</td><td>FN 307</td><td>In the same cave as where you find the Dancer’s Clothes for the normal mission </td><td>None</td></tr>
 
 ##Fuel Recovery <a name="Fuel_Recovery-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Challenge</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Noctilum’s Collectopedia</strong> page</td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Challenge</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Noctilum’s Collectopedia</strong> page</td></tr>
 <tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 
 ##Melee Attack <a name="Melee_Attack-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Progress</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Progress</strong></td></tr>
 <tr><td>Probe 2</td><td>5</td><td>White Whale debris</td><td>SW of FN 119</td><td>On top of the rock roof over Windswept Ridge and Eutropio the Sea Rumble. The same treasure also contains the level 50 Zweihand-Q blueprint. (Requires flight pack or a clever longjump with your skell; in the area with the Levitath tyrant, go all the way south, jump on the tall rock that overlooks the sea. If you look SW you see a part of the rock roof, it can be reached with a longjump. Then simply drive up to the treasure).</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 
 ##Ranged Attack <a name="Ranged_Attack-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Breakthrough</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Breakthrough</strong></td></tr>
 <tr><td>Probe 2</td><td>4</td><td>Abandoned container</td><td>N of FN 507</td><td>Inside Bandit’s Refuge, hard to miss.</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 
 ##EZ Debuff <a name="EZ_Debuff-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Evolution</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Evolution</strong></td></tr>
 <tr><td>Probe 2</td><td>3</td><td>Vehicle wreckage</td><td>NE of FN 318</td><td>In the same area as Bertrand the Gorge Scourge</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>4</td><td>Patrol chopper wreckage</td><td>SE  of FN 206 (completes)</td><td>In Sentinel’s Nest, guarded by Balduino the Wicked-Eyed. (Requires flight pack or </td><td>None</td></tr>
 
 ##Attribute Resistance <a name="Attribute_Resistance-t"></a>
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Revolution</strong></td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Revolution</strong></td></tr>
 <tr><td>Probe 2</td><td>4</td><td>Patrol chopper wreckage</td><td>SE of FN 419</td><td>Near the NE border of the segment, near a group of Adseculas.</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>5</td><td>Patrol chopper wreckage</td><td>FN 513</td><td>Atop Mount M’Gando</td><td>None</td></tr>
 

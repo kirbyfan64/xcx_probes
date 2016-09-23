@@ -98,7 +98,7 @@ class Document:
             for probe, items in probes.items():
                 cols = [probe]
                 if len(items) == 1 and isinstance(items[0], str):
-                    cols.extend(['None']*len(PROBE_INFO))
+                    cols.extend(['None']*(len(PROBE_INFO)-1))
                     cols.append(items[0])
                 else:
                     items_d = dict(items)
