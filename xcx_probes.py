@@ -93,6 +93,7 @@ class Document:
         res.append('#Probe table <a name="probes-t"></a>')
         for name, probes in self.groups.items():
             res.append('##%s <a name="%s-t"></a>' % (name, linkify_probe(name)))
+            res.append('')
             res.append('<table>')
             res.append('<tr>%s</tr>' % ''.join(map(thify, ['Probe']+PROBE_INFO)))
             for probe, items in probes.items():
