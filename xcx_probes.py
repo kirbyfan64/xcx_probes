@@ -106,6 +106,7 @@ class Document:
                     cols.extend([items_d[k] for k in PROBE_INFO[:-1]])
                     cols.append('None')
                 res.append('<tr>%s</tr>' % ''.join(map(tdify, cols)))
+            res.append('</table>')
             res.append('')
 
         info = [
