@@ -337,27 +337,27 @@ Obtained after completing the normal mission <strong>The Probe-fessional</strong
 
 ###Probe 4
 - **Level**: 1
+- **Type**: Skell wreckage
+- **Segment**: S of FN 305
+- **Location**: It is near the northern border of the segment against the western mountains, on what looks like a pillar or ring of an ancient civilization.
+
+###Probe 5
+- **Level**: 1
 - **Type**: Trailer wreckage
 - **Segment**: SW of FN 308
 - **Location**: On the beach in plain sight, hard to miss.
 
-###Probe 5
+###Probe 6
 - **Level**: 2
 - **Type**: Abandoned container
 - **Segment**: SW of FN 403
 - **Location**: In Seabird’s Beak BC, hard to miss.
 
-###Probe 6
+###Probe 7
 - **Level**: 1
 - **Type**: White Whale debris
 - **Segment**: SW of FN 501 (completes)
 - **Location**: On the volcano. Also contains a Mining 4 probe.
-
-###Probe 7
-- **Level**: ?
-- **Type**: ?
-- **Segment**: ?
-- **Location**: I have not yet located this probe, though I know it must be available before completing chapter 9, because another save file of mine had seven Mining 3 probes before chapter 9. Will update ASAP.
 
 ##Mining 4 <a name="Mining_4-l"></a>
 ###Probe 1
@@ -780,10 +780,10 @@ Obtained by completing <strong>Chapter 8</strong>
 - **Location**: On a floating island. Also contains the level 50 Zenith-Cannon blueprint. Requires flight, though an OoB might also do the trick (unconfirmed).
 
 ###Probe 10
-- **Level**: ?
-- **Type**: ?
-- **Segment**: ?
-- **Location**: Still searching! Will update ASAP.
+- **Level**: 4
+- **Type**: Abandoned container
+- **Segment**: n/a
+- **Location**: In the Ganglion Antropolis (this location opens during the normal mission 
 
 ##Mining 10 <a name="Mining_10-l"></a>
 ###Probe 1
@@ -924,10 +924,10 @@ Fill out <strong>Oblivia’s Collectopedia</strong> page. Requires the flight pa
 - **Location**: On top of the huge wall separating Ciel Lake from the Sandsea, near the Zig guarding Bobora at Xanadu Overlook.
 
 ###Probe 7
-- **Level**: Archealogical 4?
-- **Type**: ?
-- **Segment**: ?
-- **Location**: 
+- **Level**: 4
+- **Type**: Abandoned container
+- **Segment**: n/a
+- **Location**: In the Ganglion Antropolis (this location opens during the normal mission 
 
 ##Research 6 <a name="Research_6-l"></a>
 ###Probe 1
@@ -1032,16 +1032,13 @@ Obtained from the normal mission <strong>Entrepreneurial Spirit</strong>
 
 ##Fuel Recovery <a name="Fuel_Recovery-l"></a>
 ###Probe 1
-Obtained from the normal mission <strong>Data Probe Challenge</strong>
+Obtained by completing <strong>Chapter 10</strong>
 
 ###Probe 2
-Fill out <strong>Noctilum’s Collectopedia</strong> page
+Obtained from the normal mission <strong>Data Probe Challenge</strong>
 
 ###Probe 3
-- **Level**: ?
-- **Type**: ?
-- **Segment**: ?
-- **Location**: Still searching! Will update ASAP.
+Fill out <strong>Noctilum’s Collectopedia</strong> page
 
 ##Melee Attack <a name="Melee_Attack-l"></a>
 ###Probe 1
@@ -1054,20 +1051,17 @@ Obtained from the normal mission <strong>Data Probe Progress</strong>
 - **Location**: On top of the rock roof over Windswept Ridge and Eutropio the Sea Rumble. The same treasure also contains the level 50 Zweihand-Q blueprint. (Requires flight pack or a clever longjump with your skell; in the area with the Levitath tyrant, go all the way south, jump on the tall rock that overlooks the sea. If you look SW you see a part of the rock roof, it can be reached with a longjump. Then simply drive up to the treasure).
 
 ###Probe 3
-- **Level**: ?
-- **Type**: ?
-- **Segment**: ?
-- **Location**: Still searching! Will update ASAP.
+- **Level**: 3
+- **Type**: Abandoned container
+- **Segment**: n/a
+- **Location**: In the Ganglion Antropolis (this location opens during the normal mission 
 
 ##Ranged Attack <a name="Ranged_Attack-l"></a>
 ###Probe 1
-Obtained from the normal mission <strong>Data Probe Breakthrough</strong>
+Obtained by completing <strong>Chapter 12</strong>
 
 ###Probe 2
-- **Level**: 4
-- **Type**: Abandoned container
-- **Segment**: N of FN 507
-- **Location**: Inside Bandit’s Refuge, hard to miss.
+Obtained from the normal mission <strong>Data Probe Breakthrough</strong>
 
 ###Probe 3
 - **Level**: ?
@@ -1171,10 +1165,10 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 1</td><td>1</td><td>Vehicle wreckage</td><td>N of FN 220</td><td>On a western cliff overlooking the waters, guarded by a Simius.</td><td>None</td></tr>
 <tr><td>Probe 2</td><td>1</td><td>Abandoned container</td><td>FN 302</td><td>Inside Ant’s Nest, inside one of the SE rooms (remember that you cannot see yellow squares on the minimap when you’re being aggro’d, so I suggest killing the Adseculas that aggro you while checking this cave).</td><td>None</td></tr>
 <tr><td>Probe 3</td><td>1</td><td>Trailer wreckage</td><td>FN 306</td><td>South of the probe site, on the cliffs, near some Mephites and a Lepyx. Hard to miss.</td><td>None</td></tr>
-<tr><td>Probe 4</td><td>1</td><td>Trailer wreckage</td><td>SW of FN 308</td><td>On the beach in plain sight, hard to miss.</td><td>None</td></tr>
-<tr><td>Probe 5</td><td>2</td><td>Abandoned container</td><td>SW of FN 403</td><td>In Seabird’s Beak BC, hard to miss.</td><td>None</td></tr>
-<tr><td>Probe 6</td><td>1</td><td>White Whale debris</td><td>SW of FN 501 (completes)</td><td>On the volcano. Also contains a Mining 4 probe.</td><td>None</td></tr>
-<tr><td>Probe 7</td><td>?</td><td>?</td><td>?</td><td>I have not yet located this probe, though I know it must be available before completing chapter 9, because another save file of mine had seven Mining 3 probes before chapter 9. Will update ASAP.</td><td>None</td></tr>
+<tr><td>Probe 4</td><td>1</td><td>Skell wreckage</td><td>S of FN 305</td><td>It is near the northern border of the segment against the western mountains, on what looks like a pillar or ring of an ancient civilization.</td><td>None</td></tr>
+<tr><td>Probe 5</td><td>1</td><td>Trailer wreckage</td><td>SW of FN 308</td><td>On the beach in plain sight, hard to miss.</td><td>None</td></tr>
+<tr><td>Probe 6</td><td>2</td><td>Abandoned container</td><td>SW of FN 403</td><td>In Seabird’s Beak BC, hard to miss.</td><td>None</td></tr>
+<tr><td>Probe 7</td><td>1</td><td>White Whale debris</td><td>SW of FN 501 (completes)</td><td>On the volcano. Also contains a Mining 4 probe.</td><td>None</td></tr>
 </table>
 
 ##Mining 4 <a name="Mining_4-t"></a>
@@ -1281,7 +1275,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 7</td><td>4</td><td>White Whale debris</td><td>NW of FN 224 (completes)</td><td>On one of the leaves of the big flower on the eastern side of the mountain. Requires flight pack or clever mountaingoating: start at the higher level of the Canopied Nightwood (it is easiest to warp to Rockmole’s Burrow and go south with your skell over the Nopon Braidbridge) and then travel north over the mountain range.</td><td>None</td></tr>
 <tr><td>Probe 8</td><td>5</td><td>Patrol chopper wreckage</td><td>NW of FN 412 (completes)</td><td>On the lower level protected by a Cinicula. Also contains the level 50 Deus Crusher blueprint.</td><td>None</td></tr>
 <tr><td>Probe 9</td><td>5</td><td>White Whale debris</td><td>N of FN 108 (completes)</td><td>On a floating island. Also contains the level 50 Zenith-Cannon blueprint. Requires flight, though an OoB might also do the trick (unconfirmed).</td><td>None</td></tr>
-<tr><td>Probe 10</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
+<tr><td>Probe 10</td><td>4</td><td>Abandoned container</td><td>n/a</td><td>In the Ganglion Antropolis (this location opens during the normal mission </td><td>None</td></tr>
 </table>
 
 ##Mining 10 <a name="Mining_10-t"></a>
@@ -1343,7 +1337,7 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><td>Probe 4</td><td>3</td><td>White Whale debris</td><td>SE of FN 216</td><td>On the SW border of the segment. Jump down the waterfall from FN 216 and then go to the beach with the Adseculas and Forfexes (Forfices?).</td><td>None</td></tr>
 <tr><td>Probe 5</td><td>2</td><td>Skell wreckage</td><td>SW of FN 317</td><td>Behind the huge ring in the water.</td><td>None</td></tr>
 <tr><td>Probe 6</td><td>3</td><td>Skell wreckage</td><td>SW of FN 413</td><td>On top of the huge wall separating Ciel Lake from the Sandsea, near the Zig guarding Bobora at Xanadu Overlook.</td><td>None</td></tr>
-<tr><td>Probe 7</td><td>Archealogical 4?</td><td>?</td><td>?</td><td></td><td>None</td></tr>
+<tr><td>Probe 7</td><td>4</td><td>Abandoned container</td><td>n/a</td><td>In the Ganglion Antropolis (this location opens during the normal mission </td><td>None</td></tr>
 </table>
 
 ##Research 6 <a name="Research_6-t"></a>
@@ -1405,9 +1399,9 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Challenge</strong></td></tr>
-<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Noctilum’s Collectopedia</strong> page</td></tr>
-<tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 10</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Challenge</strong></td></tr>
+<tr><td>Probe 3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Fill out <strong>Noctilum’s Collectopedia</strong> page</td></tr>
 </table>
 
 ##Melee Attack <a name="Melee_Attack-t"></a>
@@ -1416,15 +1410,15 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
 <tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Progress</strong></td></tr>
 <tr><td>Probe 2</td><td>5</td><td>White Whale debris</td><td>SW of FN 119</td><td>On top of the rock roof over Windswept Ridge and Eutropio the Sea Rumble. The same treasure also contains the level 50 Zweihand-Q blueprint. (Requires flight pack or a clever longjump with your skell; in the area with the Levitath tyrant, go all the way south, jump on the tall rock that overlooks the sea. If you look SW you see a part of the rock roof, it can be reached with a longjump. Then simply drive up to the treasure).</td><td>None</td></tr>
-<tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
+<tr><td>Probe 3</td><td>3</td><td>Abandoned container</td><td>n/a</td><td>In the Ganglion Antropolis (this location opens during the normal mission </td><td>None</td></tr>
 </table>
 
 ##Ranged Attack <a name="Ranged_Attack-t"></a>
 
 <table>
 <tr><th>Probe</th><th>Level</th><th>Type</th><th>Segment</th><th>Location</th><th>Info</th></tr>
-<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Breakthrough</strong></td></tr>
-<tr><td>Probe 2</td><td>4</td><td>Abandoned container</td><td>N of FN 507</td><td>Inside Bandit’s Refuge, hard to miss.</td><td>None</td></tr>
+<tr><td>Probe 1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained by completing <strong>Chapter 12</strong></td></tr>
+<tr><td>Probe 2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>Obtained from the normal mission <strong>Data Probe Breakthrough</strong></td></tr>
 <tr><td>Probe 3</td><td>?</td><td>?</td><td>?</td><td>Still searching! Will update ASAP.</td><td>None</td></tr>
 </table>
 
@@ -1449,20 +1443,25 @@ Obtained from the normal mission <strong>Data Probe Revolution</strong>
 #Notes <a name="notes"></a>
 - N means north, S  means south, etc.
 - When I say “(completes)” I mean that opening that treasure completes the segment (i.e. a golden shield icon appears). This should make it easy for players with preexisting save files to look up which probes they might have missed. These treasures generally have a less-detailed description, because 1)they are easy to find anyway, and 2) I expect most readers to have found those treasures already.
--  “Level” denotes the required level of your mechanical (unless stated otherwise) field skill in order to open the treasure.
+-  “Level” denotes the required level of your mechanical field skill in order to open the treasure. <strong>No probe is contained in a biological or archaeological treasure</strong>.
 - I have tried to order the list in a sensible way. That is, I have tried to order them based on 1) proximity to other probes, and 2) difficulty of reaching it. I accept suggestions for reordering.
 - After checking <a href="https://www.reddit.com/r/Xenoblade_Chronicles/comments/40tsow/final_probe_amountscount_162k_storage202k/">Reddit</a> and <a href="http://www.gamefaqs.com/boards/701151-xenoblade-chronicles-x">GameFAQs</a> extensively it seems that <a href="https://www.reddit.com/r/Xenoblade_Chronicles/comments/40tsow/final_probe_amountscount_162k_storage202k/">the numbers</a> <a href="/u/Suffuri">/u/Suffuri</a> listed as being the maximum number of probes are indeed correct.
 - For reasons I will not go into I have decided not to take screenshots. However, I will gladly accept and add screenshots from readers.
-- Since I have not yet located every probe I would also love to hear it if you know where to find the last ones. On this playthrough I am in between chapters 8 and 9, and I do not plan on clearing chapter 9 for a while. Therefore I do not have (easy) access to places that require the flight pack, or the Ganglion Antropolis. I expect to find some probes in these places.
+- ~Since I have not yet located every probe I would also love to hear it if you know where to find the last ones. On this playthrough I am in between chapters 8 and 9, and I do not plan on clearing chapter 9 for a while. Therefore I do not have (easy) access to places that require the flight pack, or the Ganglion Antropolis. I expect to find some probes in these places.~ <em>Every probe has been found!</em>
 - I would love to hear any and all kinds of feedback and corrections. Please post them below instead of PMing me, so that others can also join in on the conversation if they wish to.
-- I plan to update this guide/list as soon as I obtain a new probe. Stay tuned.
+- ~I plan to update this guide/list as soon as I obtain a new probe. Stay tuned.~ <em>Every probe has been found!</em>
 
 #Version History <a name="history"></a>
-- Version 1.0 – 23-09-2016
-Initial version, 183/188 probes listed
+- <p>Version 2.0: Electric Boogaloo – 24-09-2016
+I changed the order of the Mining G3 probes. <em>Every probe has been found and listed!</em></p>
+- <p>Version 1.1 – 24-09-2016
+I changed the order of the Fuel Recovery and Ranged Attack probes. 187/188 probes listed.</p>
+- <p>Version 1.0 – 23-09-2016
+Initial version, 183/188 probes listed.</p>
 
 #Acknowledgements <a name="ack"></a>
 - Special thanks to <a href="/u/Deviant-Cain">/u/Deviant-Cain</a>. His <a href="https://www.reddit.com/r/Xenoblade_Chronicles/comments/3yunpi/research_probesstorageduplicator_probes_in_all_my/">post</a> has helped me locate a couple of probes I had not found yet. With his permission I would love to add his screenshots to my list.
 - Special thanks to <a href="/u/taifunbrowser">/u/taifunbrowser</a> for his <a href="https://www.reddit.com/r/Xenoblade_Chronicles/comments/3yunpi/research_probesstorageduplicator_probes_in_all_my/cz8d67c">post</a> describing the location of a Research 5 probe in the Ganglion Antropolis.
 - Special thanks to <a href="https://www.youtube.com/playlist?list=PL0yGNcLq5sYjqfoV0daOub5QLE_WHOIO4">Ze1dahead</a>. His videos have been a huge help in getting all my field skills to level 5 before getting the flight pack, and they have taught me the basics of mountaingoating, which I used to get many of the probes listed here.
 - Special thanks to <a href="/u/Suffuri">/u/Suffuri</a> for <a href="https://www.reddit.com/r/Xenoblade_Chronicles/comments/40tsow/final_probe_amountscount_162k_storage202k/">letting us know</a> how many probes there are in the game. I have looked extensively on both <a href="https://www.reddit.com/r/Xenoblade_Chronicles/comments/40tsow/final_probe_amountscount_162k_storage202k/">Reddit</a> and <a href="http://www.gamefaqs.com/boards/701151-xenoblade-chronicles-x">GameFAQs</a>, and it seems that these numbers are indeed correct (apart from the ghost 12th Storage probe which I refuse to admit exists unless someone can provide evidence of it).
+- Special thanks to <a href="/u/kirbyfan64sos">/u/kirbyfan64sos</a> for reformatting this list into a more comfortable and pleasant read.
